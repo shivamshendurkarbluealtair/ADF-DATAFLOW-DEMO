@@ -1,0 +1,9 @@
+{
+	"name": "ADF-DATA-FLOW-DEMO",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2bf21c74-847f-410a-98b6-04ec7fc4f36f",
+		"tenantId": "153dcb9d-7906-432c-8b87-10671d48ff0d"
+	}
+}
